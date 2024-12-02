@@ -14,10 +14,11 @@ With a commitment to innovation and a client-centric approach, rakibX combines t
 Whether you're a startup looking to disrupt the market or an established enterprise seeking transformation, RakibX stands as your trusted partner in the journey toward innovation.
 
 ## Services Available: 
-• Branding (Graphics Design / Logo Design / Banner Design / Product Design) <br> 
-• Software (Android App Development) <br>
-• Web (Wabsite Development / Wabsite Design) + (Domain / Subdomain) <br>
-• Database (Hosting / Share Hosting) <br>
+• **Branding** (Graphics Design / Logo Design / Banner Design / Product Design) <br> 
+• **Video** (Intro Making / Ads Makeing / Video Editing) <br>
+• **Software** (Android App Development) <br>
+• **Web** (Wabsite Development / Wabsite Design) + (Domain / Subdomain) <br>
+• **Database** (Hosting / Share Hosting / Free Hosting) <br>
 
 
 ## For Inquiries 
