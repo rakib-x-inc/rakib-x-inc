@@ -1,9 +1,9 @@
 ## rakibX inc
 [<img src='https://raw.githubusercontent.com/rakib-x-inc/rakib-x-inc/refs/heads/main/Images/Banaras/Banner.png' alt='rakibX'>](https://github.com/rakib-X-inc/)
-<p>
-👑 I am All in One Developer <br> 
-⚒️ Love to Developing <br> 
-💭 Like to share my knowledge </p> 
+<p> 
+  Unlock Your Business Potential with Expert Consulting and Tailored Digital Solutions <br> 
+  Powerful Solutions <br> 
+  24/7 Support </p> 
 
 
 ## About
