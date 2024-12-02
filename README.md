@@ -1,5 +1,5 @@
 ## rakibX inc
-[<img src='https://raw.githubusercontent.com/Abdur-Rakib-Talukder/Abdur-Rakib-Talukder/refs/heads/main/Image/Rakib.jpg' alt='Rakib'>](https://github.com/Abdur-Rakib-Talukder/)
+[<img src='[https://raw.githubusercontent.com/rakib-x-inc/rakib-x-inc/refs/heads/main/Images/Banaras/Banner.png]' alt='rakibX'>](https://github.com/rakib-X-inc/)
 <p>
 👑 I am All in One Developer <br> 
 ⚒️ Love to Developing <br> 
