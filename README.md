@@ -9,17 +9,16 @@
 ## About
 rakibX is a cutting-edge software solutions company dedicated to transforming ideas into powerful, scalable, and efficient technologies. Specializing in custom software development, artificial intelligence, cloud solutions, and enterprise systems, rakibX empowers businesses to achieve digital excellence.
 
-With a commitment to innovation and a client-centric approach, RakibX combines technical expertise with creative problem-solving to deliver tailored solutions that drive growth, optimize operations, and foster long-term success.
+With a commitment to innovation and a client-centric approach, rakibX combines technical expertise with creative problem-solving to deliver tailored solutions that drive growth, optimize operations, and foster long-term success.
 
 Whether you're a startup looking to disrupt the market or an established enterprise seeking transformation, RakibX stands as your trusted partner in the journey toward innovation.
 
-## Work Available: 
-• Software Development <br> 
-• Wabsite Development <br>
-• Graphic Design <br>
-• HTML5 / CSS3 / JAVA <br>
-• Pixellab / Sketchware / Blogger / Github <br>
+## Services Available: 
+• Branding (Graphics Design / Logo Design / Banner Design / Product Design) <br> 
+• Software (Android App Development) <br>
+• Web (Wabsite Development / Wabsite Design) + (Domain / Subdomain) <br>
+• Database (Hosting / Share Hosting) <br>
 
 
-## 📧 For Business Inquiries 
-✉️ ► mail.rakib.business@gmail.com
+## For Inquiries 
+✉️ ► x@rakib.com
