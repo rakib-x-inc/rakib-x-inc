@@ -17,8 +17,8 @@ Whether you're a startup looking to disrupt the market or an established enterpr
 • **Branding** (Graphics Design / Logo Design / Banner Design / Product Design) <br> 
 • **Video** (Intro Making / Ads Makeing / Video Editing) <br>
 • **Software** (Android App Development) <br>
-• **Web** (Wabsite Development / Wabsite Design) + (Domain / Subdomain) <br>
-• **Database** (Hosting / Share Hosting / Free Hosting) <br>
+• **Web** (Wabsite Development / Wabsite Design) <br>
+• **Database** (Hosting / Share Hosting / Free Hosting / Domain / Subdomain) <br>
 
 
 ## For Inquiries 
